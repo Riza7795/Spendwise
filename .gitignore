@@ -1,0 +1,15 @@
+# Python virtual environment
+backend/.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment secrets
+.env
+
+# Node dependencies
+mobile/node_modules/
+
+# Expo
+mobile/.expo/
